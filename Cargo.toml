@@ -1,0 +1,9 @@
+[package]
+name = "biblatex-formatter"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.89"
+biblatex = "0.10.0"
+clap = { version = "4.5.19", features = ["derive"] }
