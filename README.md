@@ -9,4 +9,4 @@ This tool can read from stdin, write to stdout and modify biblatex/bibtex files 
 ## Installation
 
 - Download the Rust programming language: <https://www.rust-lang.org/tools/install>
-- Install using `cargo install --path .`
+- Install using `cargo install --git https://github.com/p-mng/biblatex-formatter.git --tag v0.1.1`
